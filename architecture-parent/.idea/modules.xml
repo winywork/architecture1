@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/architecture-parent.iml" filepath="$PROJECT_DIR$/architecture-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customerweb/customerweb.iml" filepath="$PROJECT_DIR$/customerweb/customerweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodsweb/goodsweb.iml" filepath="$PROJECT_DIR$/goodsweb/goodsweb.iml" />
+    </modules>
+  </component>
+</project>
