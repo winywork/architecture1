@@ -14,7 +14,7 @@ import org.junit.Test;
 public class AppTest 
 {
     /**
-     * Rigorous Test :-)
+     * Rigorous Test :-) 1
      */
     @Test
     public void shouldAnswerWithTrue()
